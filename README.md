@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 ### Dhruv
 
 Python learner interested in Machine Learning and Cybersecurity, focused on building practical skills and real-world knowledge.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=tokyonight" />
+</p>
