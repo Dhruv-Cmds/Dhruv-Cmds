@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi, I'm Dhruv 👋</h2>
-<p align="center">Python Developer |Java Learning | Learning: Machine Learning & Cybersecurity</p>
+<p align="center">Python Developer | Java Learning | Learning: Machine Learning & Cybersecurity</p>
 
 
 <!--
