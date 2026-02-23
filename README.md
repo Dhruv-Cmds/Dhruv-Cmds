@@ -6,18 +6,44 @@
 <p align="center">Python Developer (OOP) | Learning Java
 </p>
 
+---
 
-<!--
-**Dhruv-Cmds/Dhruv-Cmds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack
 
-Here are some ideas to get you started:
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Dhruv
+### 🧱 Core Concepts
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Basics-green?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Practice-orange?style=for-the-badge)
 
-### Dhruv
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-Python learner interested in Machine Learning and Cybersecurity, focused on building practical skills and real-world knowledge.
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=tokyonight" />
-</p>
+## 📂 Featured Work
+
+- **Java-Projects** – OOP-based console applications (Games, Utilities, Practice)
+- **Python-Projects** – Python utilities and logic-focused programs
+- **Expense-Tracker** – Python-based expense management
+- **Library-Management** – Console-based system using Java & Python
+
+---
+
+## 🎯 Currently Focused On
+- Strengthening Java & Python fundamentals
+- Writing clean, structured OOP code
+- Building console-based applications
+- Improving problem-solving skills
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Cmds&layout=compact&theme=tokyonight)
+
+⭐ Learning consistently. Building step by step.
