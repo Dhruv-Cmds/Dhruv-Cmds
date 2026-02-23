@@ -1,3 +1,5 @@
+<!-- profile-refresh-final -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/6573563004ea3d140420902bf721c3eb60ae6d4e/anime-style-galaxy-background_23-2151134341.png" width="100%" />
 </p>
@@ -9,16 +11,16 @@
   Console Applications • Learning by Building
 </p>
 
+<!-- 🔥 SYSTEM STATUS (your section, polished but unchanged in meaning) -->
 <p align="center">
-  🧑‍🚀 <code>community growing</code> &nbsp;•&nbsp;
-  ⚡ <code>actively shipping</code> &nbsp;•&nbsp;
-  🧠 <code>learning in public</code>
+  <sub>🛰️ SYSTEM STATUS</sub><br/>
+  <b>community growing</b> · <b>actively shipping</b> · <b>learning in public</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Dhruv-Cmds?label=Followers&logo=github&style=flat&color=0d1117&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/Dhruv-Cmds?label=Stars&logo=github&style=flat&color=0d1117&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/last-commit/Dhruv-Cmds/Java-Projects?label=Last%20Commit&logo=git&style=flat&color=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/Dhruv-Cmds?style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/Dhruv-Cmds?style=flat&color=purple" />
+  <img src="https://img.shields.io/github/last-commit/Dhruv-Cmds/Java-Projects?style=flat&color=green" />
 </p>
 
 ---
@@ -33,9 +35,9 @@
 
 ### 🧱 Core Concepts
 <p align="left">
-  <img src="https://img.shields.io/badge/OOP-0A0A0A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-Basics-0A0A0A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithms-Practice-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-Basics-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/Algorithms-Practice-0A0A0A?style=flat"/>
 </p>
 
 ### 🛠 Tools & Environment
@@ -73,7 +75,6 @@
 ---
 
 ## 🎮 In My Free Time
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="40"/>
   &nbsp;&nbsp;
