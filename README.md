@@ -80,7 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-Cmds&theme=dark" />
 </p>
 
-<p>─────────────────────────────────────────────────────────────────────────────────────</p>
 <h2>Connect With Me</h2>
 
 <ul>
@@ -92,6 +91,27 @@
   <b>Developer</b> • OOP • Console Applications<br/> 
   <sub>Python • Java • Git • Clean Architecture</sub> 
 </p>
+
+<p>─────────────────────────────────────────────────────────────────────────────────────</p>
+<h2>Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>An-Advance-ATM</b> — Python-based ATM simulation focusing on control flow,
+    file handling, input validation, and real-world logic.
+    <br/>
+    <a href="https://github.com/Dhruv-Cmds/An-Advance-Atm">View Repository</a>
+  </li>
+  <br/>
+  <li>
+    <b>Library-Management</b> — Console-based Library Management System built using
+    Java (and Python), demonstrating OOP principles, clean code structure, and backend logic.
+    <br/>
+    <a href="https://github.com/Dhruv-Cmds/Library-Management">View Repository</a>
+  </li>
+</ul>>
+
+<p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
 <h3 align="center">In My Free Time</h3>
 
