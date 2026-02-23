@@ -1,18 +1,113 @@
-<!-- profile-refresh-final -->
-
-
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/1a30c3157064e604fbeeedabfb8345da51971297/ada3f32ff15bdd3142c23da34ef4c114.jpg" width="100%" />
 </p>
 
-<h2 align="center">Hi, I’m Dhruv 👋</h2>
+<!-- Name -->
+<h1 align="center">⚡ I'm Dhruv ⚡
+  <p align="center">
+    
+  <sub>
+    Python & Java Developer
+  </sub>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-<img src="https://github.com/desktop/desktop/raw/development/app/assets/icon/icon.png" width="40"/><br/>
-<sub>GitHub Desktop</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Followers-3-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Stars-16-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Last%20Commit-today-0d1117?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
+</p>
+</h1>
 
-<img src="https://github.com/desktop/desktop/raw/development/app/assets/icon/icon.png" width="40"/>
-<br/>
-<sub>GitHub Desktop</sub>
+
+<h2>Skills</h2>
+
+<table align="center">
+  <tr>
+    <th>I Have</th>
+    <th>I’m Learning</th>
+    <th>Memory Banks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48" />
+      <img src="https://skillicons.dev/icons?i=java" width="48" /><br/>
+      <img src="https://github.com/Dhruv-Cmds/Dhruv-Cmds/raw/fb1dd63010faacf7ecdbf84871cd6120164101fa/git%20desk.png" width="48" />
+      <img src="https://skillicons.dev/icons?i=github" width="48" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="48" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" />
+    </td>
+    <td align="center">
+      <sub>Coming later…</sub>
+    </td>
+  </tr>
+</table>
+<h2>What I Do</h2>
+
+<ul>
+  <li><b>Primary:</b> Object-oriented console applications (Python & Java)</li>
+  <li><b>Practices:</b> Clean Code, SOLID principles, system thinking</li>
+  <li><b>Learning:</b> Design patterns, CLI tooling, problem decomposition</li>
+</ul>
+
+
+
+<h2>Currently Working On</h2>
+
+<ul>
+  <li>Improving design patterns in Python & Java</li>
+  <li>Building small CLI tools for real problems</li>
+</ul>
+
+
+<h2>Technical Overview</h2>
+
+<p>
+  <b>Languages:</b> Python, Java<br/>
+  <b>Core Concepts:</b> OOP, Data Structures & Algorithms, Clean Code<br/>
+  <b>Tools:</b> Git, GitHub, VS Code
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-Cmds&theme=dark" />
+</p>
+
+
+<h2>Connect With Me</h2>
+
+<ul>
+  <li>GitHub: https://github.com/Dhruv-Cmds</li>
+  <li>Email: pd1900565@gmail.com</li>
+</ul>
+
+
+
+
+
+
+<p align="center"> <b>Developer</b> • OOP • Console Applications<br/> 
+  <sub>
+    Python • Java • Git • Clean Architecture
+  </sub> 
+</p>
+
+
+
+<h3 align="center">In My Free Time: </h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=premiere" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=photoshop" width="40" />
+</p>
+
+<p align="center">
+  <sub>Gaming • Communities • Video Editing • Design</sub>
+</p>
