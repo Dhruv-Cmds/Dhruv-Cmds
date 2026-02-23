@@ -3,7 +3,15 @@
 </p>
 
 <h2 align="center">Hi, I'm Dhruv 👋</h2>
-<p align="center">Python Developer (OOP) | Learning Java
+
+<p align="center">
+  Python & Java Developer (OOP) | Console Applications | Learning by Building
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Dhruv-Cmds?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Dhruv-Cmds?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Dhruv-Cmds/Java-Projects?style=for-the-badge" />
 </p>
 
 ---
@@ -31,19 +39,18 @@
 
 - **Java-Projects** – OOP-based console applications (Games, Utilities, Practice)
 - **Python-Projects** – Python utilities and logic-focused programs
-- **Expense-Tracker** – Python-based expense management
+- **Expense-Tracker** – Python-based expense management system
 - **Library-Management** – Console-based system using Java & Python
 
 ---
 
 ## 🎯 Currently Focused On
-- Strengthening Java & Python fundamentals
-- Writing clean, structured OOP code
-- Building console-based applications
-- Improving problem-solving skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+- Strengthening Java & Python fundamentals  
+- Writing clean, structured OOP code  
+- Building console-based applications  
+- Improving problem-solving skills  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Cmds&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ⭐ Learning consistently. Building step by step.
