@@ -71,6 +71,14 @@
   </li>
 </ul>
 
+
+<p align="center">
+  <sub>
+    Many projects are organized inside <b>Python-Projects</b> and <b>Java-Projects</b> repositories,
+    each containing multiple OOP-based mini-projects (30+ total).
+  </sub>
+</p>
+
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
 <h2>What I Do</h2>
