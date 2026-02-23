@@ -1,4 +1,5 @@
 <!-- Banner -->
+
 <!-- gojo banner -->
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/1a30c3157064e604fbeeedabfb8345da51971297/ada3f32ff15bdd3142c23da34ef4c114.jpg" width="100%" />
@@ -8,14 +9,11 @@
   <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/2050bdd382ef73c500b20b2f6f8a2aae2f5c9027/sung-jin-woo-solo-leveling_gif%20498%C3%97280%20pixels.gif" width="100%" />
 </p>
 
-
 <!-- Name -->
 <h1 align="center">⚡ I'm Dhruv ⚡
+
   <p align="center">
-    
-  <sub>
-    Python & Java Developer
-  </sub>
+  <sub>Python & Java Developer</sub>
 </p>
 
 <p align="center">
@@ -23,8 +21,10 @@
   <img src="https://img.shields.io/badge/Stars-16-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Last%20Commit-today-0d1117?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
 </p>
+
 </h1>
 
+<p>─────────────────────────────────────────────────────────────────────────────────────────</p>
 
 <h2>Skills</h2>
 
@@ -52,6 +52,7 @@
     </td>
   </tr>
 </table>
+
 <h2>What I Do</h2>
 
 <ul>
@@ -60,15 +61,12 @@
   <li><b>Learning:</b> Design patterns, CLI tooling, problem decomposition</li>
 </ul>
 
-
-
 <h2>Currently Working On</h2>
 
 <ul>
   <li>Improving design patterns in Python & Java</li>
   <li>Building small CLI tools for real problems</li>
 </ul>
-
 
 <h2>Technical Overview</h2>
 
@@ -78,12 +76,11 @@
   <b>Tools:</b> Git, GitHub, VS Code
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-Cmds&theme=dark" />
 </p>
 
-
+<p>─────────────────────────────────────────────────────────────────────────────────────────</p>
 <h2>Connect With Me</h2>
 
 <ul>
@@ -91,20 +88,12 @@
   <li>Email: pd1900565@gmail.com</li>
 </ul>
 
-
-
-
-
-
-<p align="center"> <b>Developer</b> • OOP • Console Applications<br/> 
-  <sub>
-    Python • Java • Git • Clean Architecture
-  </sub> 
+<p align="center">
+  <b>Developer</b> • OOP • Console Applications<br/> 
+  <sub>Python • Java • Git • Clean Architecture</sub> 
 </p>
 
-
-
-<h3 align="center">In My Free Time: </h3>
+<h3 align="center">In My Free Time</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discord" width="40" />
