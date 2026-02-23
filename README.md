@@ -2,55 +2,88 @@
   <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/6573563004ea3d140420902bf721c3eb60ae6d4e/anime-style-galaxy-background_23-2151134341.png" width="100%" />
 </p>
 
-<h2 align="center">Hi, I'm Dhruv 👋</h2>
+<h2 align="center">Hi, I’m Dhruv 👋</h2>
 
 <p align="center">
-  Python & Java Developer (OOP) | Console Applications | Learning by Building
+  <b>Python & Java Developer (OOP)</b><br/>
+  Console Applications • Learning by Building
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Dhruv-Cmds?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Dhruv-Cmds?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Dhruv-Cmds/Java-Projects?style=for-the-badge" />
+  🧑‍🚀 <code>community growing</code> &nbsp;•&nbsp;
+  ⚡ <code>actively shipping</code> &nbsp;•&nbsp;
+  🧠 <code>learning in public</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Dhruv-Cmds?label=Followers&logo=github&style=flat&color=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Dhruv-Cmds?label=Stars&logo=github&style=flat&color=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/last-commit/Dhruv-Cmds/Java-Projects?label=Last%20Commit&logo=git&style=flat&color=0d1117&labelColor=0d1117" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🧠 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+</p>
 
 ### 🧱 Core Concepts
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Basics-green?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-Practice-orange?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-Basics-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-Practice-0A0A0A?style=flat-square"/>
+</p>
 
-### 🛠 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🛠 Tools & Environment
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38"/>
+</p>
 
 ---
 
 ## 📂 Featured Work
 
-- **Java-Projects** – OOP-based console applications (Games, Utilities, Practice)
-- **Python-Projects** – Python utilities and logic-focused programs
-- **Expense-Tracker** – Python-based expense management system
-- **Library-Management** – Console-based system using Java & Python
+- **Java-Projects**  
+  OOP-based console applications (Games, Utilities, Practice)
+
+- **Python-Projects**  
+  Python utilities and logic-focused programs
+
+- **Expense-Tracker**  
+  Python-based expense management system
+
+- **Library-Management**  
+  Console-based system using Java & Python
 
 ---
 
 ## 🎯 Currently Focused On
-
 - Strengthening Java & Python fundamentals  
 - Writing clean, structured OOP code  
-- Building console-based applications  
+- Building practical console applications  
 - Improving problem-solving skills  
 
 ---
 
-⭐ Learning consistently. Building step by step.
+## 🎮 In My Free Time
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Minecraft_logo.svg" width="90"/>
+</p>
+
+<p align="center">
+  <sub>Playing Minecraft on Steam • Relaxing & Exploring</sub>
+</p>
+
+---
+
+⭐ <i>Learning consistently. Building step by step.</i>
