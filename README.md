@@ -1,7 +1,7 @@
 <!-- profile-refresh-final -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/6573563004ea3d140420902bf721c3eb60ae6d4e/anime-style-galaxy-background_23-2151134341.png" width="100%" />
+  <img src="PASTE_THE_RAW_URL_HERE" width="100%" />
 </p>
 
 <h2 align="center">Hi, I’m Dhruv 👋</h2>
