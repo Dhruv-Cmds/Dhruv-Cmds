@@ -13,7 +13,7 @@
 <h1 align="center">⚡ I'm Dhruv ⚡</h1>
 
 <p align="center">
-  Python & Java Developer
+  Python & Java • Console Systems • Clean Architecture
 </p>
 
 <p align="center">
@@ -51,6 +51,8 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Featured Projects</h2
 
 <h2>What I Do</h2>
 
