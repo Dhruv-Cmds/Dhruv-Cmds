@@ -1,7 +1,10 @@
 <!-- Banner -->
-<p align="center">
+<!-- gojo banner -->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruv-Cmds/Dhruv-Cmds/1a30c3157064e604fbeeedabfb8345da51971297/ada3f32ff15bdd3142c23da34ef4c114.jpg" width="100%" />
-</p>
+</p> -->
+
+
 
 <!-- Name -->
 <h1 align="center">⚡ I'm Dhruv ⚡
