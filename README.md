@@ -10,10 +10,10 @@
 </p>
 
 <!-- Name -->
-<h1 align="center">⚡ I'm Dhruv ⚡
+<h1 align="center">⚡ I'm Dhruv ⚡</h1>
 
-  <p align="center">
-  <sub>Python & Java Developer</sub>
+<p align="center">
+  Python & Java Developer
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Last%20Commit-today-0d1117?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
 </p>
 
-</h1>
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
