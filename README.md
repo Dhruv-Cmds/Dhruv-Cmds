@@ -42,8 +42,8 @@
 - Building console-based applications
 - Improving problem-solving skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Cmds&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Cmds&layout=compact&theme=tokyonight&hide_border=true)
 
 ⭐ Learning consistently. Building step by step.
