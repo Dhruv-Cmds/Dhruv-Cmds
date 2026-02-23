@@ -75,7 +75,7 @@
 <p align="center">
   <sub>
     Many projects are organized inside <b>Python-Projects</b> and <b>Java-Projects</b> repositories,
-    each containing multiple OOP-based mini-projects (30+ total).
+    each containing multiple OOP-based mini-projects.
   </sub>
 </p>
 
