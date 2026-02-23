@@ -69,7 +69,7 @@
     <br/>
     <a href="https://github.com/Dhruv-Cmds/Library-Management">View Repository</a>
   </li>
-</ul>>
+</ul>
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
@@ -100,6 +100,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-Cmds&theme=dark" />
 </p>
 
+<p>─────────────────────────────────────────────────────────────────────────────────────</p>
+
 <h2>Connect With Me</h2>
 
 <ul>
@@ -111,17 +113,6 @@
   <b>Developer</b> • OOP • Console Applications<br/> 
   <sub>Python • Java • Git • Clean Architecture</sub> 
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 <h3 align="center">In My Free Time</h3>
 
