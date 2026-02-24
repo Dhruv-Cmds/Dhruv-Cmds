@@ -57,15 +57,13 @@
 
 <ul>
   <li>
-    <b>An-Advance-ATM</b> — Python-based ATM simulation focusing on control flow,
-    file handling, input validation, and real-world logic.
+    <b>• An-Advance-ATM — Python-based ATM simulation using OOP, file handling, input validation, and persistent data      storage to model real-world banking logic.
     <br/>
     <a href="https://github.com/Dhruv-Cmds/An-Advance-Atm">View Repository</a>
   </li>
   <br/>
   <li>
-    <b>Library-Management</b> — Console-based Library Management System built using
-    Java (and Python), demonstrating OOP principles, clean code structure, and backend logic.
+    <b>L• Library-Management — Console-based Library Management System built using Java and Python, demonstrating OOP      design, clean architecture, and modular backend logic.
     <br/>
     <a href="https://github.com/Dhruv-Cmds/Library-Management">View Repository</a>
   </li>
@@ -74,8 +72,8 @@
 
 <p align="center">
   <sub>
-    Many projects are organized inside <b>Python-Projects</b> and <b>Java-Projects</b> repositories,
-    each containing multiple OOP-based mini-projects.
+   Many projects are organized inside <b>Python-Projects</b> and <b>Java-Projects</b> repositories,
+   showcasing versioned implementations, OOP refactors, and real-world CLI tools.
   </sub>
 </p>
 
@@ -85,7 +83,7 @@
 
 <ul>
   <li><b>Primary:</b> Object-oriented console applications (Python & Java)</li>
-  <li><b>Practices:</b> Clean Code, SOLID principles, system thinking</li>
+  <li><b>Practices:</b> Clean Code, SOLID principles, object-oriented design, system thinking</li>
   <li><b>Learning:</b> Design patterns, CLI tooling, problem decomposition</li>
 </ul>
 
