@@ -63,7 +63,7 @@
   </li>
   <br/>
   <li>
-    <b>L• Library-Management — Console-based Library Management System built using Java and Python, demonstrating OOP      design, clean architecture, and modular backend logic.
+    <b>• Library-Management — Console-based Library Management System built using Java and Python, demonstrating OOP      design, clean architecture, and modular backend logic.
     <br/>
     <a href="https://github.com/Dhruv-Cmds/Library-Management">View Repository</a>
   </li>
