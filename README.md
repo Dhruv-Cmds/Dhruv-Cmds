@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Dhruv-Cmds?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=0d1117&cacheSeconds=30" />
-  <img src="https://img.shields.io/github/stars/Dhruv-Cmds?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=0d1117&cacheSeconds=30" />
+  <img src="https://img.shields.io/badge/Followers-4-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117" />>
+ <img src="https://img.shields.io/badge/Stars-22-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117"
   <img src="https://img.shields.io/badge/Last%20Commit-today-0d1117?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
 </p>
 
