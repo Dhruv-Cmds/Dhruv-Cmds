@@ -41,6 +41,7 @@
       <img src="https://skillicons.dev/icons?i=github" width="48" />
       <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
       <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+      <img src="https://skillicons.dev/icons?i=idea" width="48" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="48" />
