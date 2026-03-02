@@ -17,9 +17,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Followers-3-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Last%20Commit-today-0d1117?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-_-0d1117?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-_-0d1117?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-_-0d1117?style=flat-square&logo=linux&logoColor=white" />
 </p>
+
+
 
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
