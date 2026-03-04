@@ -60,18 +60,32 @@
 
 <ul>
   <li>
-    <b>• An-Advance-ATM — Python-based ATM simulation using OOP, file handling, input validation, and persistent data      storage to model real-world banking logic.
+    <b>• An-Advance-ATM — Python-based ATM simulation using OOP, file handling, input validation, and persistent data storage to model real-world banking logic.</b>
     <br/>
     <a href="https://github.com/Dhruv-Cmds/An-Advance-Atm">View Repository</a>
   </li>
   <br/>
+
   <li>
-    <b>• Library-Management — Console-based Library Management System built using Java and Python, demonstrating OOP      design, clean architecture, and modular backend logic.
+    <b>• Library-Management — Console-based Library Management System built using Java and Python, demonstrating OOP design, clean architecture, and modular backend logic.</b>
     <br/>
     <a href="https://github.com/Dhruv-Cmds/Library-Management">View Repository</a>
   </li>
-</ul>
+  <br/>
 
+  <li>
+    <b>• Python-OS-Simulator — Terminal-based operating system simulator built in Python that models core OS components including user authentication, file system management, process handling, memory allocation, and system logging using modular architecture and OOP principles.</b>
+    <br/>
+    <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
+  </li>
+  <br/>
+
+  <li>
+    <b>• Personal-Life-Systems-Dashboard — A data-driven decision support dashboard that analyzes finance, health, and academic metrics to generate insights and recommendations through a Python backend and web-based interface.</b>
+    <br/>
+    <a href="https://github.com/Dhruv-Cmds/Personal-life-systems-dashboard">View Repository</a>
+  </li>
+</ul>
 
 <p align="center">
   <sub>
