@@ -116,7 +116,7 @@
 <p>
   <b>Languages:</b> Python, Java<br/>
   <b>Core Concepts:</b> OOP, Data Structures & Algorithms, Clean Code<br/>
-  <b>Tools:</b> Git, GitHub, VS Code
+  <b>Tools:</b> Git, GitHub, VS Code, IntelliJ
 </p>
 
 <p align="center">
