@@ -39,7 +39,7 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="48" />
       <img src="https://skillicons.dev/icons?i=java" width="48" /><br/>
-      <img src="https://skillicons.dev/icons?i=html" width="48" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
       <img src="https://github.com/Dhruv-Cmds/Dhruv-Cmds/raw/fb1dd63010faacf7ecdbf84871cd6120164101fa/git%20desk.png" width="48" />
       <img src="https://skillicons.dev/icons?i=github" width="48" />
       <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
