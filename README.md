@@ -118,7 +118,6 @@
   <b>Core Concepts:</b> OOP, Data Structures & Algorithms, Clean Code<br/>
   <b>Tools:</b> Git, GitHub, VS Code, IntelliJ IDEA
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-Cmds&theme=dark" />
 </p>
