@@ -141,10 +141,8 @@
 <h2>Connect With Me</h2>
 
 <ul>
-  <li>GitHub: <a href="https://github.com/Dhruv-Cmds" target ="_blank">GitHub</a></li>
+  Check out my portfolio where you can find my projects and contact details.
   <li>Portfolio: <a href="https://dhruv-cmds.github.io" target ="_blank">Protfolio</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/patel-dhruv-a77a313b4/" target ="_blank">LinkedIn</a></li>
-  <li>Email: <a href="mailto:pd1900565@gmail.com" target ="_blank">pd1900565@gmail.com</a></li>
 </ul>
 
 <p align="center">
