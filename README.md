@@ -31,27 +31,41 @@
 
 <table align="center">
   <tr>
-    <th>I Have</th>
+    <th>Tools</th>
+    <th>Languages</th>
     <th>I’m Learning</th>
     <th>Memory Banks</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="48" />
-      <img src="https://skillicons.dev/icons?i=java" width="48" /><br/>
-      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
-      <img src="https://github.com/Dhruv-Cmds/Dhruv-Cmds/raw/fb1dd63010faacf7ecdbf84871cd6120164101fa/git%20desk.png" width="48" />
-      <img src="https://skillicons.dev/icons?i=github" width="48" />
-      <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" />
-      <img src="https://skillicons.dev/icons?i=idea" width="48" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="48" />
-    </td>
-    <td align="center">
-      <sub>Coming later…</sub>
-    </td>
+      <!-- --------------------------------------------------------------------- -->
+      <td align="center">
+        <img src="https://github.com/Dhruv-Cmds/Dhruv-Cmds/raw/fb1dd63010faacf7ecdbf84871cd6120164101fa/git%20desk.png" width="48" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+        <img src="https://skillicons.dev/icons?i=idea" width="48" />
+      </td>
+      <!-- --------------------------------------------------------------------- -->
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="48" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" /><br/>
+        <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
+      </td>  
+      <!-- --------------------------------------------------------------------- -->
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="48" />
+      </td>
+      <!-- --------------------------------------------------------------------- -->
+      <td align="center">
+          <sub>Data Structures
+                <br>
+               Algorithms
+                <br>
+               OOP
+                <br>
+               Problem Solving
+          </sub>
+      </td>
   </tr>
 </table>
 
