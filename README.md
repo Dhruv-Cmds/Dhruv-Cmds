@@ -142,9 +142,9 @@
 
 <ul>
   <li>GitHub: https://github.com/Dhruv-Cmds</li>
+  <li>Portfolio: https://dhruv-cmds.github.io</li>
   <li>LinkedIn: https://www.linkedin.com/in/patel-dhruv-a77a313b4/</li>
   <li>Email: <a href="mailto:pd1900565@gmail.com">pd1900565@gmail.com</a></li>
-  <li>Portfolio: https://dhruv-cmds.github.io</li>
 </ul>
 
 <p align="center">
