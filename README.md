@@ -79,18 +79,18 @@
     <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
   </li>
   <br/>
+
+  <li>
+    <b>• Python-OS-Simulator — Terminal-based operating system simulator built in Python that models core OS components including user authentication, file system management, process handling, memory allocation, and system logging using modular architecture and OOP principles.</b>
+    <br/>
+    <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
+  </li>
+  <br/>
   
   <li>
     <b>• An-Advance-ATM — Python-based ATM simulation using OOP, file handling, input validation, and persistent data storage to model real-world banking logic.</b>
     <br/>
     <a href="https://github.com/Dhruv-Cmds/An-Advance-Atm">View Repository</a>
-  </li>
-  <br/>
-  
-  <li>
-    <b>• Python-OS-Simulator — Terminal-based operating system simulator built in Python that models core OS components including user authentication, file system management, process handling, memory allocation, and system logging using modular architecture and OOP principles.</b>
-    <br/>
-    <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
   </li>
   <br/>
 
