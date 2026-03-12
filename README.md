@@ -71,7 +71,15 @@
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 <h2 align="center">Featured Projects</h2>
-
+<ul>
+  <li>
+    <b>• • MiniDataBase — Lightweight CLI database engine written in Python that stores tables as JSON files and supports CRUD operations.</b>
+    <br/>
+    <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
+  </li>
+  
+  <br/>
+  
 <ul>
   <li>
     <b>• An-Advance-ATM — Python-based ATM simulation using OOP, file handling, input validation, and persistent data storage to model real-world banking logic.</b>
