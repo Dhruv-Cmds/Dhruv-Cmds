@@ -143,7 +143,12 @@
   <b>Tools:</b> Git, GitHub, VS Code, IntelliJ IDEA
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-Cmds&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Cmds&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Cmds&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=dark"/>
 </p>
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
