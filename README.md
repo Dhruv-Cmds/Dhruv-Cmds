@@ -11,68 +11,32 @@
 </p> -->
 
 <!-- Name -->
-<h1 align="center">⚡ I'm Dhruv ⚡</h1>
+<h1 align="center"> I'm Dhruv Patel </h1>
 
 <p align="center">
   Python & Java • Console Systems • Clean Architecture
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-_-0d1117?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-_-0d1117?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-_-0d1117?style=flat-square&logo=linux&logoColor=white" />
-</p>
-
-
-
-
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
 <h2>Skills</h2>
 
-<table align="center">
-  <tr>
-    <th>Tools</th>
-    <th>Languages</th>
-    <th>I’m Learning</th>
-    <th>Memory Banks</th>
-  </tr>
-  <tr>
-      <!-- --------------------------------------------------------------------- -->
-      <td align="center">
-        <img src="https://github.com/Dhruv-Cmds/Dhruv-Cmds/raw/fb1dd63010faacf7ecdbf84871cd6120164101fa/git%20desk.png" width="48" />
-        <img src="https://skillicons.dev/icons?i=github" width="48" />
-        <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" />
-        <img src="https://skillicons.dev/icons?i=idea" width="48" />
-      </td>
-      <!-- --------------------------------------------------------------------- -->
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" width="48" />
-        <img src="https://skillicons.dev/icons?i=java" width="48" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=html" width="48" />
-        <img src="https://skillicons.dev/icons?i=css" width="48" />
-      </td>  
-      <!-- --------------------------------------------------------------------- -->
-      <td align="center">
-        coming soon
-      </td>
-      <!-- --------------------------------------------------------------------- -->
-      <td align="center">
-          <sub>Data Structures
-                <br>
-               Algorithms
-                <br>
-               OOP
-                <br>
-               Problem Solving
-          </sub>
-      </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/Dhruv-Cmds/Dhruv-Cmds/raw/fb1dd63010faacf7ecdbf84871cd6120164101fa/git%20desk.png" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+  <img src="https://skillicons.dev/icons?i=idea" width="40" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python" width="40" />
+  <img src="https://skillicons.dev/icons?i=java" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" />
+</div>
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
+
 <h2 align="center">Featured Projects</h2>
 
 <ul>
@@ -81,6 +45,7 @@
     <br/>
     <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
   </li>
+  
   <br/>
 
   <li>
@@ -88,20 +53,7 @@
     <br/>
     <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
   </li>
-  <br/>
   
-  <li>
-    <b>• An-Advance-ATM — Python-based ATM simulation using OOP, file handling, input validation, and persistent data storage to model real-world banking logic.</b>
-    <br/>
-    <a href="https://github.com/Dhruv-Cmds/An-Advance-Atm">View Repository</a>
-  </li>
-  <br/>
-
-  <li>
-    <b>• Library-Management — Console-based Library Management System built using Java and Python, demonstrating OOP design, clean architecture, and modular backend logic.</b>
-    <br/>
-    <a href="https://github.com/Dhruv-Cmds/Library-Management">View Repository</a>
-  </li>
   <br/>
 
   <li>
@@ -111,37 +63,19 @@
   </li>
 </ul>
 
-<p align="center">
+  <p align="center">
   <sub>
-   Many projects are organized inside <b>Python-Projects</b> and <b>Java-Projects</b> repositories,
+   Many projects are organized inside <b>
+    <a href="https://github.com/Dhruv-Cmds/Python-Projects">Python-Projects</a></b> and 
+    <b><a href="https://github.com/Dhruv-Cmds/Java-Projects">Java-Projects</a></b> repositories,
    showcasing versioned implementations, OOP refactors, and real-world CLI tools.
   </sub>
-</p>
+</p
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
-<h2>What I Do</h2>
-
-<ul>
-  <li><b>Primary:</b> Object-oriented console applications (Python & Java)</li>
-  <li><b>Practices:</b> Clean Code, SOLID principles, object-oriented design, system thinking</li>
-  <li><b>Learning:</b> Design patterns, CLI tooling, problem decomposition</li>
-</ul>
-
-<h2>Currently Working On</h2>
-
-<ul>
-  <li>Improving design patterns in Python & Java</li>
-  <li>Building small CLI tools for real problems</li>
-</ul>
-
 <h2>Technical Overview</h2>
 
-<p>
-  <b>Languages:</b> Python, Java<br/>
-  <b>Core Concepts:</b> OOP, Data Structures & Algorithms, Clean Code<br/>
-  <b>Tools:</b> Git, GitHub, VS Code, IntelliJ IDEA
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=dark"/>
 </p>
@@ -158,18 +92,4 @@
 <p align="center">
   <b>Developer</b> • OOP • Console Applications<br/> 
   <sub>Python • Java • Git • Clean Architecture</sub> 
-</p>
-
-<h3 align="center">In My Free Time</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=premiere" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=photoshop" width="40" />
-</p>
-
-<p align="center">
-  <sub>Gaming • Communities • Video Editing • Design</sub>
 </p>
