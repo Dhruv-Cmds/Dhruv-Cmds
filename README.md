@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  Simulates authentication, file systems, process scheduling, and memory management  
+  Designed and implemented a modular operating system simulator modeling authentication, file systems, process scheduling, and memory management  
   <br>
-  Built with a focus on modular architecture and system-level design
+  Structured using clean architecture principles to separate system components and ensure scalability
 </p>
 
 <p align="center">
@@ -49,7 +49,8 @@
 <ul>
   <li>
     <b style="color:#C084FC;">MiniDataBase</b><br>
-    CLI database engine with JSON-based storage and full CRUD support<br>
+    Developed a lightweight CLI-based database engine with JSON-backed storage and full CRUD capabilities<br>
+    Designed structured data handling and command parsing to simulate real database interactions<br>
     <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
   </li>
 
@@ -57,7 +58,8 @@
 
   <li>
     <b style="color:#C084FC;">Python OS Simulator</b><br>
-    System simulation with authentication, file handling, process scheduling, and memory management<br>
+    Built a system-level simulation handling authentication, file operations, process scheduling, and memory allocation<br>
+    Implemented modular architecture to improve maintainability and scalability of system components<br>
     <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
   </li>
 </ul>
