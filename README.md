@@ -14,7 +14,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </div>
 
----
 
 <h2 align="center">Project Highlight</h2>
 
@@ -31,8 +30,6 @@
 <p align="center">
   <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Project</a>
 </p>
-
----
 
 
 <h2 align="center">Featured Projects</h2>
@@ -59,7 +56,6 @@
   </li>
 </ul>
 
----
 
 <h2 align="center">Stats</h2>
 
@@ -67,7 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
 </p>
 
----
 
 <h2 align="center">Connect</h2>
 
