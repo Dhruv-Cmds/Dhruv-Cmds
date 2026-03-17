@@ -9,9 +9,13 @@
 <h2 align="center">Skills</h2>
 
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
+
   <br><br>
+
   <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+
 </div>
 
 ---
@@ -20,7 +24,7 @@
 
 <ul>
   <li>
-    <b style="color:#C084FC;">MiniDataBase</b> — CLI database engine using JSON storage with CRUD operations  
+    <b style="color:#C084FC;">MiniDataBase</b> — CLI database engine with JSON-based storage and CRUD operations
     <br>
     <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
   </li>
@@ -49,7 +53,7 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://dhruv-cmds.github.io">Portfolio</a>
+   Portfolio: <a href="https://dhruv-cmds.github.io">https://dhruv-cmds.github.io</a>
 </p>
 
 ---
