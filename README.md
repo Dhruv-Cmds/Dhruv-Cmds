@@ -14,7 +14,7 @@
 <h1 align="center"> I'm Dhruv Patel </h1>
 
 <p align="center">
-  Python & Java • Console Systems • Clean Architecture
+  Python & Java developer building CLI tools and backend systems
 </p>
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
@@ -41,25 +41,14 @@
 
 <ul>
   <li>
-    <b>• MiniDataBase — Lightweight CLI database engine written in Python that stores tables as JSON files and supports CRUD operations.</b>
-    <br/>
-    <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
+    <div><b>MiniDataBase — Database engine written in Python that stores tables as JSON files and supports CRUD operations. <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a></b></div>   
   </li>
   
   <br/>
 
   <li>
-    <b>• Python-OS-Simulator — Terminal-based operating system simulator built in Python that models core OS components including user authentication, file system management, process handling, memory allocation, and system logging using modular architecture and OOP principles.</b>
-    <br/>
-    <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
-  </li>
-  
-  <br/>
-
-  <li>
-    <b>• Personal-Life-Systems-Dashboard — A data-driven decision support dashboard that analyzes finance, health, and academic metrics to generate insights and recommendations through a Python backend and web-based interface.</b>
-    <br/>
-    <a href="https://github.com/Dhruv-Cmds/Personal-life-systems-dashboard">View Repository</a>
+    <div><b>Python-OS-Simulator — Simulates: authentication, file system management, process handling, memory allocation</b></div>
+    <div><b>Focus: system design + modular architecture <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a></b></div>   
   </li>
 </ul>
 
@@ -88,8 +77,3 @@
   Check out my portfolio where you can find my projects and contact details.
   <li>Portfolio: <a href="https://dhruv-cmds.github.io" target ="_blank">Protfolio</a></li>
 </ul>
-
-<p align="center">
-  <b>Developer</b> • OOP • Console Applications<br/> 
-  <sub>Python • Java • Git • Clean Architecture</sub> 
-</p>
