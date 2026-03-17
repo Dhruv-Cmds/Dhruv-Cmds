@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=200&section=header&text=I'm%20Dhruv%20Patel&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=220&section=header&text=Dhruv%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
   Python & Java developer building CLI tools and backend systems
