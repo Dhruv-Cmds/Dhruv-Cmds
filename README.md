@@ -9,13 +9,9 @@
 <h2 align="center">Skills</h2>
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
-
   <br><br>
-
   <img src="https://skillicons.dev/icons?i=python,java,html,css" />
-
 </div>
 
 ---
@@ -24,7 +20,9 @@
 
 <ul>
   <li>
-    <b style="color:#C084FC;">MiniDataBase</b> — CLI database engine with JSON-based storage and CRUD operations
+    <b style="color:#C084FC;">MiniDataBase</b>  
+    <br>
+    CLI database engine with JSON-based storage and full CRUD support  
     <br>
     <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
   </li>
@@ -32,9 +30,11 @@
   <br>
 
   <li>
-    <b style="color:#C084FC;">Python OS Simulator</b> — Simulates authentication, file system, process handling, memory allocation  
+    <b style="color:#C084FC;">Python OS Simulator</b>  
     <br>
-    <b>Focus:</b> system design + modular architecture  
+    Simulates authentication, file systems, process scheduling, and memory management  
+    <br>
+    Focus: modular architecture and system-level design  
     <br>
     <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
   </li>
@@ -45,7 +45,7 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=tokyonight&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
+  <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-   Portfolio: <a href="https://dhruv-cmds.github.io">https://dhruv-cmds.github.io</a>
+  <a href="https://dhruv-cmds.github.io">dhruv-cmds.github.io</a>
 </p>
 
 ---
