@@ -21,6 +21,10 @@
 <h2 align="center">Project Highlight</h2>
 
 <p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
   <b style="color:#C084FC;">Python OS Simulator</b>
 </p>
 
@@ -32,6 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Project</a>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <br><br>
