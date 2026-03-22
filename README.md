@@ -18,32 +18,6 @@
 
 <br><br>
 
-<h2 align="center">Project Highlight</h2>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-  <b style="color:#C084FC;">Python OS Simulator</b>
-</p>
-
-<p align="center">
-  Designed and implemented a modular operating system simulator modeling authentication, file systems, process scheduling, and memory management  
-  <br>
-  Structured using clean architecture principles to separate system components and ensure scalability
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Project</a>
-</p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<br><br>
-
 <h2 align="center">Featured Projects</h2>
 
 <ul>
