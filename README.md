@@ -14,6 +14,9 @@
   <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
+
+   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="48" alt="MySQL Workbench"/>
+</p>
 </div>
 
 <br><br>
