@@ -11,11 +11,9 @@
 <br>
 
 <div align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" /> -->
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,idea,python,java,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
 </p>
 </div>
 
