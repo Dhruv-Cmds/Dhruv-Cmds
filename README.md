@@ -12,6 +12,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
+  <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
 </p>
