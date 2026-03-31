@@ -10,13 +10,43 @@
 
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea" />
-  <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
-</p>
-</div>
+<table align="center" width="90">
+  <tr>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55"/><br>GitHub
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/><br>Git
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/><br>VS Code
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55"/><br>IntelliJ
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="55" height="55"/><br>DBeaver
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/><br>Python
+    </td>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55"/><br>Java
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><br>HTML
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><br>CSS
+    </td>
+    <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/><br>MySQL
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
