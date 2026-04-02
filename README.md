@@ -65,17 +65,6 @@
   
 </table>
 
-<br><br>
-
-
-  <li>
-    <b style="color:#C084FC;">Python OS Simulator</b><br>
-    Built a system-level simulation handling authentication, file operations, process scheduling, and memory allocation<br>
-    Implemented modular architecture to improve maintainability and scalability of system components<br>
-    <a href="https://github.com/Dhruv-Cmds/Python-os-simulator">View Repository</a>
-  </li>
-</ul>
-
 ---
 
 <h2 align="center">Stats</h2>
