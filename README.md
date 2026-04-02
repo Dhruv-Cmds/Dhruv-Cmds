@@ -67,17 +67,6 @@
 
 <br><br>
 
-<h2 align="center">Featured Projects</h2>
-
-<ul>
-  <li>
-    <b style="color:#C084FC;">MiniDataBase</b><br>
-    Developed a lightweight CLI-based database engine with JSON-backed storage and full CRUD capabilities<br>
-    Designed structured data handling and command parsing to simulate real database interactions<br>
-    <a href="https://github.com/Dhruv-Cmds/MiniDataBase">View Repository</a>
-  </li>
-
-  <br>
 
   <li>
     <b style="color:#C084FC;">Python OS Simulator</b><br>
