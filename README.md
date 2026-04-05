@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=sakura-x&hide_border=true&border_radius=4.4" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/> </p>
+  <!-- <img src="https://streak-stats.demolab.com?user=Dhruv-Cmds&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/> </p> -->
   
 <br><br>
 
