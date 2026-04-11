@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=200&section=header&text=Dhruv%20Patel&fontSize=32&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Backend+%26+Systems+Developer;Designing+scalable+and+structured+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+FastAPI;Building+REST+APIs+with+Python;Working+with+MySQL+%26+Databases" />
 </p>
 
 ---
