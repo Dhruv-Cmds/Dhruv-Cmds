@@ -10,13 +10,14 @@
 
 <br>
 
-<table align="center" width="90">
+<table align="center">
+  
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40"/>
       <br>GitHub
     </td>
-      <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
       <br>Git
     </td>
@@ -33,7 +34,7 @@
       <br>DBeaver
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40"/>
@@ -51,35 +52,44 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
       <br>CSS  
     </td>
+    <!--
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
-    </td>
-    <!-- <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
       <br>Javascript
     </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-        <br>React
-      </td> -->
-    
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
+      <br>React
+    </td>
+    -->
   </tr>
-  
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+  </tr>
+
   <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
       <br>FastAPI
     </td>
-    <!-- <td align="center" width="90">
+    <!--
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker"/>
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img class="mongo" src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/>
       <br> MongoDB
-    </td> -->
-    
+    </td>
+    -->
   </tr>
   
 </table>
