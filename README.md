@@ -84,6 +84,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
       <br>FastAPI
     </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+        <br>REST API
+    </td>
     <!--
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker"/>
