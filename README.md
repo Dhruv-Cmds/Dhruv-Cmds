@@ -88,11 +88,11 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
         <br>REST API
     </td>
-    <!--
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker"/>
       <br>Docker
     </td>
+    <!--
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/>
       <br> MongoDB
