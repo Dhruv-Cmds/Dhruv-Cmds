@@ -85,7 +85,7 @@
       <br>FastAPI
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
         <br>REST API
     </td>
     <!--
