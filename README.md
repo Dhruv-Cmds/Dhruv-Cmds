@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=200&section=header&text=Dhruv%20Patel&fontSize=32&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=200&section=header&text=Dhruv%20Patel&fontSize=32&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Python+%7C+MySQL;Building+REST+APIs" />
