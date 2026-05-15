@@ -84,6 +84,10 @@
   </tr>
 
   <tr>
+      <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+      <br>Postman
+    </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
       <br>FastAPI
