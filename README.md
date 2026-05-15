@@ -85,7 +85,7 @@
 
   <tr>
       <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
       <br>Postman
     </td>
     <td align="center" width="90">
