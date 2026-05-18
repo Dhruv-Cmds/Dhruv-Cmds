@@ -119,7 +119,7 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://dhruv-cmds.github.io">dhruvcore.com</a>
+  <a href="https://dhruvcore.com">dhruvcore.com</a>
 </p>
 
 ---
