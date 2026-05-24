@@ -13,6 +13,11 @@
 <table align="center">
   
   <tr>
+     <td align="center" width="90">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+       <br>Linux
+     </td>
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40"/>
       <br>GitHub
