@@ -111,14 +111,6 @@
   
 </table>
 
-<br><br>
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://dhruvcore.com">dhruvcore.com</a>
-</p>
-
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=120&section=footer)
