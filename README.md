@@ -31,10 +31,6 @@
       <br>IntelliJ
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
-      <br>DBeaver
-    </td>
-    <td align="center" width="90">
       <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" width="40" height="40"/>
       <br>DataGrip
     </td>
@@ -90,10 +86,6 @@
   </tr>
 
   <tr>
-      <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-      <br>Postman
-    </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
       <br>FastAPI
