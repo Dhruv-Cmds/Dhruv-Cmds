@@ -6,11 +6,6 @@
 </p>
 
 ---
-
-<h2 align="center">Tech Stack</h2>
-
-<br>
-
 <table align="center">
   
   <tr>
