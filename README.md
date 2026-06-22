@@ -74,10 +74,10 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" />
       <br>MySQL
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
       <br>PostgreSQL
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40" height="40" alt="Redis"/>
       <br>Redis
