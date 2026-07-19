@@ -35,6 +35,10 @@
       <br>DataGrip
     </td>
     <td align="center" width="90">
+     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" width="40" height="40"/>
+      <br>WEbStrom
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker"/>
       <br>Docker
     </td>
