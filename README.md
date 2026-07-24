@@ -7,38 +7,22 @@
 ---
 <table align="center">
     <tr>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
-                height="40" alt="Linux" />
-            <br>Linux
-        </td>
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" />
-            <br>GitHub
-        </td>
-        <td align="center" width="90">
-            <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
-            <br>Git
-        </td>
         <!-- <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
             <br>PHP
         </td> -->
         <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"
-                height="40" />
+            <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
             <br>HTML
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"
-                height="40" />
+            <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
             <br>CSS
         </td>
-        <!-- <td align="center" width="90">
+        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
             <br>Tailwind
-        </td> -->
+        </td>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
             <br>Javascript
@@ -46,12 +30,12 @@
         <!-- <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
             <br>Typescript
-        </td> -->
-        <!-- <td align="center" width="90">
+        </td>
+        <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
             <br>React
-        </td> -->
-        <!-- <td align="center" width="90">
+        </td>
+        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
             <br>Next.js
         </td> -->
@@ -78,10 +62,6 @@
             <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40" height="40" alt="Redis" />
             <br>Redis
         </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" />
-            <br>Java
-        </td>
         <!-- <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
             <br>MongoDB
@@ -90,9 +70,27 @@
             <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
             <br>PostgreSQL
         </td> -->
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" />
+            <br>Java
+        </td>
     </tr>
     <tr>
         <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
+                height="40" alt="Linux" />
+            <br>Linux
+        </td>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+            <br>Git
+        </td>
+          <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             <br>Docker
         </td>
