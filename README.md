@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8e2de2&height=200&section=header&text=Dhruv%20Patel&fontSize=32&fontColor=ffffff)
 
 <p align="center">
@@ -7,105 +6,101 @@
 
 ---
 <table align="center">
-  
-  <tr>
-     <td align="center" width="90">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-       <br>Linux
-     </td>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-      <br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-      <br>IntelliJ
-    </td>
-    <td align="center" width="90">
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" width="40" height="40"/>
-      <br>DataGrip
-    </td>
-    <td align="center" width="90">
-     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" width="40" height="40"/>
-      <br>WebStrom
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker"/>
-      <br>Docker
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40"/>
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40"/>
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-      <br>CSS  
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
-      <br>Javascript
-    </td>
-    <!--
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
-      <br>React
-    </td>
-    -->
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" />
-      <br>MySQL
-    </td>
-    <!-- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
-      <br>PostgreSQL
-    </td> -->
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40" height="40" alt="Redis"/>
-      <br>Redis
-    </td>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="40" />
-        <br>REST API
-    </td>
-    <!--
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/>
-      <br> MongoDB
-    </td>
-    -->
-  </tr>
-  
+    <tr>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"
+                height="40" alt="Linux" />
+            <br>Linux
+        </td>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
+            <br>Git
+        </td>
+        <!-- <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+            <br>PHP
+        </td> -->
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"
+                height="40" />
+            <br>HTML
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"
+                height="40" />
+            <br>CSS
+        </td>
+        <!-- <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+            <br>Tailwind
+        </td> -->
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+            <br>Javascript
+        </td>
+        <!-- <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+            <br>Typescript
+        </td> -->
+        <!-- <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+            <br>React
+        </td> -->
+        <!-- <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+            <br>Next.js
+        </td> -->
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"
+                height="40" />
+            <br>FastAPI
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+            <br>REST API
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40" height="40" alt="Redis" />
+            <br>Redis
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" />
+            <br>Java
+        </td>
+        <!-- <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <br>MongoDB
+        </td> -->
+        <!-- <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+            <br>PostgreSQL
+        </td> -->
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <br>Docker
+        </td>
+        <!-- <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+            <br>Kubernetes
+        </td> -->
+    </tr>
 </table>
 
 ---
