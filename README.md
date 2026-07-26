@@ -19,6 +19,10 @@
             <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
             <br>CSS
         </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" />
+            <br>FIGMA
+        </td>
         <!-- <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
             <br>Tailwind
