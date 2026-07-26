@@ -42,7 +42,7 @@
         <!-- <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
             <br>Typescript
-        </td>
+        </td> -->
     </tr>
     <tr>
         <td align="center" width="90">
