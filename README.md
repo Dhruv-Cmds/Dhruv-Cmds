@@ -71,7 +71,7 @@
             <br>MySQL
         </td>
         <td align="center" width="90">
-            <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40" height="40" alt="Redis" />
+            <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" />
             <br>Redis
         </td>
         <!-- <td align="center" width="90">
