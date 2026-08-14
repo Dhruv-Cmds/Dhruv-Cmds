@@ -74,10 +74,10 @@
             <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" />
             <br>Redis
         </td>
-        <!-- <td align="center" width="90">
+        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
             <br>MongoDB
-        </td> -->
+        </td>
         <!-- <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
             <br>PostgreSQL
