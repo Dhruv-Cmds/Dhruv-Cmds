@@ -43,10 +43,10 @@
             <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
             <br>Next.js
         </td> -->
-        <!-- <td align="center" width="90">
+        <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
             <br>React
-        </td> -->
+        </td>
         <!-- <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
             <br>Typescript
